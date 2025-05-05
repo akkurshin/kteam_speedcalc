@@ -75,7 +75,7 @@ input {
 
 .info-tooltip {
     position: absolute;
-    left: 100%;
+    left: calc(100% - 250px);
     top: 0;
     margin-left: 10px;
     background-color: white;
